@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FallingObjects
+comment0.text=\r\n\ Allows\ the\ falling\ of\ the\ objects\ and\ controls\ the\ speed.\ If\ the\ object\ hits\ the\ "ground",\r\n\ they\ will\ disappear.\ \r\n\ \r\n\ @author\ Chloe\ Barlow,\ Richie\ Shin\r\n\ @version\ 4\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ fall()
+comment3.params=
+comment3.target=boolean\ checkBottom()
+numComments=4
